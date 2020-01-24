@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Submission2_Movie</string>
+    <string name="title_tvshow">tv show</string>
+    <string name="title_movie">movie</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="page_movie">page movie</string>
+    <string name="page_tvshow">page tvshow</string>
+    <string name="tab_text_1">Movie</string>
+    <string name="tab_text_2">Tvshow</string>
+    <string name="content_tab_text">This is Tab</string>
+
+    <!--  string movie  -->
+    <string name="name_movie">name movie</string>
+    <string name="desc_movie">lorem ipsum dolor sit amet</string>
+    <string-array name="data_name1">
+        <item>Venom</item>
+        <item>Dead Pool</item>
+        <item>Bird Box</item>
+        <item>AquaMan</item>
+        <item>Avengger</item>
+        <item>Bumblebee</item>
+        <item>DragonBall</item>
+        <item>Spiderman</item>
+        <item>Preman Pensiun</item>
+        <item>Bohemian</item>
+    </string-array>
+
+    <array name="data_photo1">
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_bohemian</item>
+    </array>
+    <string-array name="data_description1">
+    <item>Venom follow journalist Eddie Brock (Tom Hardy), who has strong power to take revenge after he ties with a symbiotic alien. But behind the power he has, Eddie must be able to control his ego altar to save his own life</item>
+    <item>This film is a sequel or continuation of the previous film, Deadpool, which was released in 2016 by telling the beginning of the beginning of a Wade Wilson to become Deadpool. The film Deadpool 2 became the eighth film of the X-Men series where Deadpool entered the X-Men universe. Previous film, Logan which was released in 2017 and then the next film X-Men Dark Phoenix which will be released in 2019 with the film The New Mutants.</item>
+    <item>Malorie Hayes (Sandra Bullock), an artist who was pregnant was checking with a doctor with her sister Jessica (Sarah Paulson). On the way home, the two of them saw chaos outside until many people committed suicide. At the same time, Jessica then looked strange and finally committed suicide in front of Malorie\'s eyes.</item>
+    <item>Aquaman is an action and adventure film, where the film tells the story of a superhero from DC comics that is planned to be released in 2018. This film certainly originates from the United States directed by James Wan and the author is Will Beall. As we know, if a superhero film will certainly run every action on land or in the air.</item>
+    <item>Avengger Infinity War Part II is a Hollywood film based on the superhero Marvel Comics. The film will be directed by Director Anthony Russo and Joe Russo with two screenwriters named Christopher Markus and Stephen McFeely. The film was produced by Mitchell Bell, and Kevin Feige.</item>
+    <item>The Bumblebee film will star Hailee Steinfeld. The film will be produced by Paramount Pictures production house, Platinum Dunes, Paramount Pictures distributor, United International Pictures (UIP). The Bumblebee film will be released on June 8, 2018 (USA).</item>
+    <item>The film by Toei Animation, Dragon Ball Super: Broly will appear in Indonesian cinemas on 20 February 2019. CGV Cinemas cinema has announced the 100-minute film screening schedule. Before watching this Dragon Ball best-selling film, consider the synopsis first. aired on Tribunnews.com with the title Synopsis Dragon Ball Super: Broly, a Goku vs Saiyan Exciting Battle New! Airing February 20, 2019</item>
+    <item> Spider-Man Far From Home tells the life of Peter Parker (Tom Holland) after Avengers: Endgame. He lives life in sadness because of the loss of his mentor, Tony Stark aka Iron Man. Peter cannot become a super hero completely because he is still studying at the High School level. He realized that, until finally he did not want to become a Spider-Man while on vacation in Europe for two weeks with his school friends.</item>
+    <item>AFTER three years after the death of Kang Bahar (Didi Petet), the leadership of the thugs in the film Preman Pensiun is under Muslihat / Kang Mus (Epy Kusnandar). After deciding to retire to become a thug, the thugs who were directed by Kang Mus switched professions to become business people. This was done because it followed in the footsteps of Kang Mus who sold kicimpring.</item>
+    <item>This film was directed by director Bryan Singer. We will not only see how wow Freddy Mercury is in the music world, but also invited to see the beginning of the life of Freddy who has the real name Farrokh Bulsara. For lovers of Queen, of course this film must be watched, because many of the band\'s top songs are will be presented. It\'s not just Bohemian Rhapsody for sure</item>
+</string-array>
+   <string name="name_tvshow">Nama tvshow</string>
+    <string name="desc_tvshow">lorem ipsum dolor sit amet</string>
+    <string-array name="data_name2">
+        <item>Flash</item>
+        <item>Supergirl</item>
+        <item>Iron Fist</item>
+        <item>Walking_Dead</item>
+        <item>The Umbrella</item>
+        <item>RiverDale</item>
+        <item>Gotham</item>
+        <item>Arrow</item>
+        <item>simpson</item>
+        <item>Doom Patrol</item>
+    </string-array>
+    <array name="data_photo2">
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_the_walking_dead</item>
+        <item>@drawable/poster_the_umbrella</item>
+        <item>@drawable/poster_riverdale</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_the_simpson</item>
+        <item>@drawable/poster_doom_patrol</item>
+    </array>
+    <string-array name="data_description2">
+        <item>After a particle accelerator causes a freak storm, CSI Investigator Barry Allen is struck by lightning and falls into a coma. Months later he awakens with the power of super speed, granting him the ability to move through Central City like an unseen guardian angel. Though initially excited by his newfound powers, Barry is shocked to discover he is not the only "meta-human" who was created in the wake of the accelerator explosion -- and not everyone is using their new powers for good. Barry partners with S.T.A.R. Labs and dedicates his life to protect the innocent. For now, only a few close friends and associates know that Barry is literally the fastest man alive, but it won\'t be long before the world learns what Barry Allen has become...The Flash.</item>
+        <item>Twenty-four-year-old Kara Zor-El, who was taken in by the Danvers family when she was 13 after being sent away from Krypton, must learn to embrace her powers after previously hiding them. The Danvers teach her to be careful with her powers, until she has to reveal them during an unexpected disaster, setting her on her journey of heroism.</item>
+        <item>Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny.</item>
+        <item>Sheriff\'s deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.</item>
+        <item>A dysfunctional family of superheroes comes together to solve the mystery of their father\'s death, the threat of the apocalypse and more</item>
+        <item>Set in the present, the series offers a bold, subversive take on Archie, Betty, Veronica and their friends, exploring the surreality of small-town life, the darkness and weirdness bubbling beneath Riverdale\’s wholesome facade.</item>
+        <item>Everyone knows the name Commissioner Gordon. He is one of the crime world\'s greatest foes, a man whose reputation is synonymous with law and order. But what is known of Gordon\'s story and his rise from rookie detective to Police Commissioner? What did it take to navigate the multiple layers of corruption that secretly ruled Gotham City, the spawning ground of the world\'s most iconic villains? And what circumstances created them – the larger-than-life personas who would become Catwoman, The Penguin, The Riddler, Two-Face and The Joker?</item>
+        <item>Spoiled billionaire playboy Oliver Queen is missing and presumed dead when his yacht is lost at sea. He returns five years later a changed man, determined to clean up the city as a hooded vigilante armed with a bow.</item>
+        <item>Set in Springfield, the average American town, the show focuses on the antics and everyday adventures of the Simpson family; Homer, Marge, Bart, Lisa and Maggie, as well as a virtual cast of thousands. Since the beginning, the series has been a pop culture icon, attracting hundreds of celebrities to guest star. The show has also made name for itself in its fearless satirical take on politics, media and American life in general.</item>
+        <item>The Doom Patrol\’s members each suffered horrible accidents that gave them superhuman abilities — but also left them scarred and disfigured. Traumatized and downtrodden, the team found purpose through The Chief, who brought them together to investigate the weirdest phenomena in existence — and to protect Earth from what they find.</item>
+    </string-array>
+
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="search">Search Title </string>
+    <string name="title">Submission 2</string>
+</resources>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Submission2_Movie</string>
+    <string name="title_tvshow">Acara TV</string>
+    <string name="title_movie">Film</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="page_movie">film</string>
+    <string name="page_tvshow">Acara TV</string>
+    <string name="tab_text_1">film</string>
+    <string name="tab_text_2">Acara TV</string>
+    <string name="content_tab_text">This is Tab</string>
+
+    <!--  string movie  -->
+    <string name="name_movie">Film</string>
+    <string name="desc_movie">lorem ipsum dolor sit amet</string>
+    <string-array name="data_name1">
+        <item>Venom</item>
+        <item>Dead Pool</item>
+        <item>Bird Box</item>
+        <item>AquaMan</item>
+        <item>Avengger</item>
+        <item>Bumblebee</item>
+        <item>DragonBall</item>
+        <item>Spiderman</item>
+        <item>Preman Pensiun</item>
+        <item>Bohemian</item>
+    </string-array>
+
+    <array name="data_photo1">
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_deadpool</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_preman</item>
+        <item>@drawable/poster_bohemian</item>
+    </array>
+   <string-array name="data_description1">
+        <item>“Venom” mengikuti jurnalis Eddie Brock (Tom Hardy), yang mempunyai kekuatan yang kuat untuk membalas dendam setelah ia berikatan dengan alien simbiotik.Tapi dibalik kekuatan yang dimilikinya, Eddie harus bisa mengendalikan altar ego-nya untuk bisa menyelamatkan nyawanya sendiri</item>
+        <item>Film ini adalah sekuel atau kelanjutan dari film sebelumnya, Deadpool yang dirilis pada tahun 2016 dengan menceritakan awal mulanya seorang Wade Wilson menjadi Deadpool. Film Deadpool 2 menjadi film ke delapan dari X-Men series dimana Deadpool masuk kedalam X-Men universe. Film sebelumnya, Logan yang dirilis pada tahun 2017 lalu kemudian film selanjutnya X-Men Dark Phoenix yang akan dirilis pada tahun 2019 bersama film The New Mutants.</item>
+        <item>Malorie Hayes (Sandra Bullock), seorang seniman yang tengah mengandung sedang memeriksakan diri ke dokter bersama kakak perempuannya Jessica (Sarah Paulson). Dalam perjalanan pulang, keduanya melihat terjadi kekacauan di luar hingga banyak orang melakukan bunuh diri. Di saat yang sama, Jessica kemudian terlihat aneh hingga akhirnya bunuh diri di depan mata Malorie.</item>
+        <item>Aquaman merupakan film bergenre action dan petualangan, dimana film ini menceritakan tentang superhero dari komik DC yang rencananya akan dirilis pada tahun 2018. Film ini tentunya berasal dari Amerika Serikat yang di sustradarai oleh James Wan dan sang penulisnya adalah Will Beall. Seperti yang kita ketahui, jika film superhero pastinya akan menjalankan setiap aksinya di daratan ataupun di udara.</item>
+        <item>Avengger Infinity War Part II merupakan film asal Hollywood yang didasarkan pada pahlawan super Marvel Comics. Film ini akan digarap oleh Sutradara Anthony Russo dan Joe Russo bersama dua orang penulis skenario bernama Christopher Markus dan Stephen McFeely. Film ini diproduseri oleh Mitchell Bell, dan Kevin Feige.</item>
+        <item>Film Bumblebee akan dibintangi oleh Hailee Steinfeld. Film ini akan diproduksi oleh rumah produksi Paramount Pictures, Platinum Dunes, distributor Paramount Pictures, United International Pictures (UIP). Film Bumblebee akan dirilis pada tanggal 08 Juni 2018 (USA).</item>
+        <item>Film garapan Toei Animation, Dragon Ball Super: Broly akan tayang di bioskop Indonesia pada 20 Februari 2019 mendatang.Bioskop CGV Cinemas telah mengumumkan jadwal pemutaran film yang berdurasi 100 menit tersebut.Sebelum menyaksikan film terlaris Dragon Ball ini, simak dulu sinopsisnya.Artikel ini telah tayang di Tribunnews.com dengan judul Sinopsis Dragon Ball Super: Broly, Pertarungan Seru Goku vs Saiyan Baru! Tayang 20 Februari 2019, https://www.tribunnews.com/section/2019/02/14/sinopsis-dragon-ball-super-broly-pertarungan-seru-goku-vs-saiyan-baru-tayang-20-februari-2019.Penulis: Siti Nurjannah Wulandari
+Editor: Natalia Bulan Retno Palupi</item>
+        <item> Spider-Man: Far From Home bercerita tentang kehidupan Peter Parker (Tom Holland) setelah Avengers: Endgame. Ia menjalani hidup dalam kesedihan karena kehilangan sang mentor, Tony Stark alias Iron Man.Peter tidak bisa menjadi pahlawan super sepenuhnya lantaran masih menimba ilmu di tingkat Sekolah Menengah Atas (SMA). Ia menyadari hal itu, sampai akhirnya ia sempat tak ingin menjadi Spider-Man saat sedang berlibur ke Eropa selama dua minggu bersama teman-teman sekolahnya.</item>
+        <item>BERSELANG tiga tahun setelah kematian Kang Bahar (Didi Petet), kepemimpinan para preman dalam film Preman Pensiun berada di bawah Muslihat/Kang Mus (Epy Kusnandar).Setelah memutuskan pensiun menjadi preman, para preman yang dibawahkan Kang Mus beralih profesi menjadi pebisnis. Hal itu dilakukan karena mengikuti jejak Kang Mus yang berjualan kicimpring.</item>
+        <item>Film ini digarap oleh sutradara Bryan Singer. Kita bukan hanya akan melihat tentang betapa wah-nya Freddy Mercury dalam dunia musik, tapi juga diajak untuk melihat awal kehidupan Freddy yang punya nama asli Farrokh Bulsara.Buat pecinta Queen, tentu saja film ini harus ditonton, karena banyak lagu top dari band ini yang akan dihadirkan. Bukan cuma Bohemian Rhapsody saja pastinya</item>
+    </string-array>
+    <string name="name_tvshow">Acara TV</string>
+    <string name="desc_tvshow">lorem ipsum dolor sit amet</string>
+    <string-array name="data_name2">
+        <item>Flash</item>
+        <item>Supergirl</item>
+        <item>Iron Fist</item>
+        <item>Walking_Dead</item>
+        <item>The Umbrella</item>
+        <item>RiverDale</item>
+        <item>Gotham</item>
+        <item>Arrow</item>
+        <item>simpson</item>
+        <item>Doom Patrol</item>
+    </string-array>
+    <array name="data_photo2">
+        <item>@drawable/poster_flash</item>
+        <item>@drawable/poster_supergirl</item>
+        <item>@drawable/poster_iron_fist</item>
+        <item>@drawable/poster_the_walking_dead</item>
+        <item>@drawable/poster_the_umbrella</item>
+        <item>@drawable/poster_riverdale</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_the_simpson</item>
+        <item>@drawable/poster_doom_patrol</item>
+    </array>
+    <string-array name="data_description2">
+        <item>Setelah akseleratorpartikel menyebabkan badai aneh, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya bersemangat dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya "manusia meta" yang diciptakan setelah ledakan akselerator - dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat yang hidup, tetapi tidak lama lagi dunia akan mengetahui apa yang menjadi Barry Allen ... The Flash.</item>
+        <item>Kara Zor-El, 24 tahun, yang ditangkap oleh keluarga Danvers ketika dia berusia 13 tahun setelah diusir dari Krypton, harus belajar merangkul kekuatannya setelah sebelumnya menyembunyikannya. Danvers mengajarinya untuk berhati-hati dengan kekuatannya, sampai dia harus mengungkapkannya selama bencana yang tak terduga, menempatkannya dalam perjalanan kepahlawanannya.</item>
+        <item>Danny Rand muncul kembali 15 tahun setelah dianggap mati. Sekarang, dengan kekuatan Iron Fist, ia berusaha untuk merebut kembali masa lalunya dan memenuhi takdirnya</item>
+        <item>Wakil Sheriff, Rick Grimes, terbangun dari koma untuk menemukan dunia pasca-apokaliptik yang didominasi oleh zombie pemakan daging. Dia berangkat untuk menemukan keluarganya dan bertemu banyak penyintas lainnya di sepanjang jalan.</item>
+        <item>Keluarga superhero yang disfungsional berkumpul untuk memecahkan misteri kematian ayah mereka, ancaman kiamat, dan lainnya.</item>
+        <item>Berada di masa kini, seri ini menawarkan pandangan yang berani dan subversif pada Archie, Betty, Veronica dan teman-teman mereka, menjelajahi surreality kehidupan kota kecil, kegelapan dan keanehan yang meluap-luap di bawah fasad Riverdale yang sehat.</item>
+        <item>Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui tentang kisah Gordon dan kenaikannya dari detektif pemula ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan keadaan apa yang menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker?</item>
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas ketika kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur.</item>
+        <item>Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap kehidupan politik, media, dan Amerika secara umum.</item>
+        <item>Anggota Patroli Doom masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super - tetapi juga membuat mereka terluka dan cacat. Trauma dan tertindas, tim menemukan tujuan melalui Ketua, yang menyatukan mereka untuk menyelidiki fenomena aneh yang ada - dan untuk melindungi Bumi dari apa yang mereka temukan.</item>
+    </string-array>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="search">Pencarian Judul</string>
+    <string name="title">Pengajuan 2</string>
+</resources>
